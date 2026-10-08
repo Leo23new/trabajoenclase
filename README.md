@@ -1,4 +1,4 @@
 ﻿# trabajoenclase
 Integrantes:
-Oseas Ortiz
+Oseas Ortiz,
 Edwin Guamanquispe
